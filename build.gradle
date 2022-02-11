@@ -1,0 +1,9 @@
+
+allprojects {
+    version = '1.0-SNAPSHOT'
+
+    ext {
+        daggerVersion = '2.23.2'
+    }
+
+}
